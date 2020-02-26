@@ -12,6 +12,11 @@ It was created based on the suggestions of users and volunteer developers of thi
 ## This robot uses:
 
 1- [Discord API Docs](https://github.com/discordapp/discord-api-docs)
+
 2- [Discord Developers Bots](https://discordapp.com/developers/docs/topics/oauth2#bots)
+
 3- [Bot Designer Discord](https://botdesignerdiscord.com) ``Code tests``
 
+## Credits:
+
+1- **Kaio Duarte** (Creator of the idea, creator of commands and code).
