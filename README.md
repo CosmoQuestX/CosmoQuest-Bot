@@ -1,6 +1,6 @@
 <img alt="Discord" src="https://img.shields.io/discord/443490369443856384?label=CosmoQuest&logo=Discord&style=social">
 
-# CosmoQuest Bot
+# CosmoQuest Bot ![Picture](https://static-cdn.jtvnw.net/jtv_user_pictures/5d474961-8648-4a43-97d5-8dec6f6babd3-profile_image-50x50.png)
 
 Bot developed for the CosmoQuest server on Discord.
 
