@@ -6,7 +6,7 @@ Code repository and robot files for the Cosmoquest Discord.
 
 ## About
 
-The Cosmoquest Bot is a robot developed by Kaio Duarte Costa to give unique and extra functions to enrich the users' experiences on the online server.  It provides an interface compatible with the Discord.js Specification v11.5, taking advantage of the Discord APIs for better functioning, practicality and stability.
+The Cosmoquest Bot is a robot developed by Kaio Duarte Costa And Glitch to give unique and extra functions to enrich the users experiences on the online server.  It provides an interface compatible with the Discord.js Specification v11.5, taking advantage of the Discord APIs for better functioning, practicality and stability.
 
 ## License
 
