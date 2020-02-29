@@ -19,6 +19,8 @@ It was created based on the suggestions of users and volunteer developers of thi
 
 • [Uptime Robot](https://uptimerobot.com/): A monitoring service that helps keep your bot running 24/7
 
+• [glitch](https://glitch.com/): Where we host the bot and its settings and internal codes 24/7
+
 ## The Code
 
 **assets**
