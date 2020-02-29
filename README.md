@@ -2,65 +2,28 @@
 
 # CosmoQuest Bot ![Picture](https://static-cdn.jtvnw.net/jtv_user_pictures/5d474961-8648-4a43-97d5-8dec6f6babd3-profile_image-50x50.png)
 
-Bot developed for the CosmoQuest server on Discord.
+Code repository and robot files for the Cosmoquest Discord.
 
-## Description:
+## About
 
-This robot is made and maintained by the server and Cosmoquest community. 
-It was created based on the suggestions of users and volunteer developers of this bot.
+The Cosmoquest Bot is a robot developed by Kaio Duarte Costa to give unique and extra functions to enrich the users' experiences on the online server.  It provides an interface compatible with the Discord.js Specification v11.5, taking advantage of the Discord APIs for better functioning, practicality and stability.
 
-## **This bot uses:**
+## License
 
-• [Botkit](https://botkit.ai/): A handy bot building framework
+> Copyright © 2020 Cosmoquest, Kaio D Costa, Pamela L. Gay
+>
+> All rights reserved. 
+> Images, videos and other media belong to their respective owners.
 
-• [Discord.js](https://discord.js.org/): A node module for connecting to the Discord API
 
-• [Botkit Discord](https://www.npmjs.com/package/botkit-discord): A connector that allows you to use Bokit and Discord.js
+> Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
-• [Uptime Robot](https://uptimerobot.com/): A monitoring service that helps keep your bot running 24/7
+> http://www.apache.org/licenses/LICENSE-2.0
 
-• [glitch](https://glitch.com/): Where we host the bot and its settings and internal codes 24/7
+> Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
-## The Code
+# Details and Information
+Access the Repository wiki: [Wiki](https://github.com/kaiodcosta/CosmoQuest-Bot/wiki)
 
-**assets**
-This is where you can add images, sound files, and other media.
-
-**public/client.js**
-This is the interactive code for the setup guide.
-
-**public/install.js**
-This is the interactive code for the install guide.
-
-**public/style.css**
-This is the styling for the install and setup guides
-
-**skills/hears.js**
-This is an Botkit skill for your bot allowing it to respond to certain words it "hears" on the server.
-
-**views/index.html**
-This is the basic webpage for the setup guide
-
-**views/install.html**
-This is the basic webpage for the install guide
-
-**.env (open, API bot not included)**
-This is a file for storing secure info like API keys
-
-**.gitignore**
-Git is a "version control" system, which is a fancy way of saying it backs up a record of all your code. This file tells git not to back up certain files. For example we don't want it backing up because it contains secure info..env
-
-**bot.js**
-This is the base code initializing the bot by giving it to the Discord Api key and telling it where the skills files are
-
-**guides.js**
-This contains the code that makes the guides accessible and interactive
-
-**package.json**
-This is a file that contains info about your project, like what node modules it should install
-
-**readme.md**
-This is this file! It's full of helpful info.
-
-**server.js**
-This contains the code that connects all the different pieces of the bot together so it can be started by package.json
+All public and general information will be inserted in the wiki of this repository.
+The information is also valid for the license in question and can be copied and remixed without any warranty.
